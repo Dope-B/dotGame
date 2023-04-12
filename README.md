@@ -6,10 +6,12 @@
 - 부저
 
 #### 사용기술: visualMicro
+
 <p align="center">
 <img width="30%" src="https://user-images.githubusercontent.com/33209821/230914772-debe0e2c-e2f0-4d09-9142-0bd161551320.jpg"/>
 <img width="30%" src="https://user-images.githubusercontent.com/33209821/230916636-badb4800-c1de-4df4-861b-b7ac88ec0d32.png"/>
 </p>
+
 #### 설명
 - 블럭은 4줄이 생성되고 2차원 배열로 boolean형으로 이뤄진다.
 - 게임 클리어 혹은 오버 시 출력 화면도 2차원 배열로 저장했다.
